@@ -4,7 +4,7 @@ http://example.com/2023/07/11/pagetags-1/
 http://example.com/2023/07/11/pagecategories-1/
 http://example.com/2023/12/23/hello-world/
 http://example.com/
-http://example.com/tags/%E2%80%9Dabout/
-http://example.com/tags/categories/
-http://example.com/tags/resources/
 http://example.com/tags/tags/
+http://example.com/tags/categories/
+http://example.com/tags/%E2%80%9Dabout/
+http://example.com/tags/resources/
