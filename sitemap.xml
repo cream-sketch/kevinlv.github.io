@@ -56,7 +56,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/tags/</loc>
+    <loc>http://example.com/tags/%E2%80%9Dabout/</loc>
+    <lastmod>2023-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/resources/</loc>
     <lastmod>2023-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -70,14 +77,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E2%80%9Dabout/</loc>
-    <lastmod>2023-12-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/resources/</loc>
+    <loc>http://example.com/tags/tags/</loc>
     <lastmod>2023-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
